@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{959D9549-42FB-4248-A391-1B6D5E20A4A2}|Default">
+  <MonoDevelop.Ide.ItemProperties.Fiorella PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Fiorella/wwwroot/js/basket.js">
+    <Files>
+      <File FileName="Fiorella/Views/Cart/Index.cshtml" Line="53" Column="1" />
+      <File FileName="Fiorella/Controllers/CartController.cs" Line="96" Column="30" />
+      <File FileName="Fiorella/wwwroot/js/basket.js" Line="66" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Fiorella" expanded="True">
+            <Node name="Fiorella" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="Interfaces" expanded="True" />
+              </Node>
+              <Node name="ViewModels" expanded="True">
+                <Node name="Baskets" expanded="True" />
+                <Node name="Categories" expanded="True" />
+                <Node name="Products" expanded="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Cart" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="js" expanded="True">
+                  <Node name="basket.js" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/Areas/Admin/Controllers/CategoryController.cs" relfile="Fiorella/Areas/Admin/Controllers/CategoryController.cs" line="145" column="1" />
+      <Breakpoint file="/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/Services/CategoryService.cs" relfile="Fiorella/Services/CategoryService.cs" line="126" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
